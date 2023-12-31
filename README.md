@@ -1,5 +1,5 @@
 
-# Disease Prediction from Symptoms
+# Disease Prediction
 
 This project is dedicated to leveraging machine learning techniques to predict potential diseases based on various symptoms. 
 
